@@ -1,0 +1,1 @@
+Machine learning is a branch of a computer science which uses a statsticial technique to learn from data without explicitly programmed
